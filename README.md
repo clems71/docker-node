@@ -1,5 +1,5 @@
 # docker-node
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/clems71/node-docker.svg)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/clems71/docker-node.svg)]()
 
-This image contains Node 4.2.1, GCC and make. Useful as a base image to start NodeJS dev.
+This image contains the latest Node LTS, GCC and make. Useful as a base image to start NodeJS dev.
