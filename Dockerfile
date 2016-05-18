@@ -8,7 +8,7 @@ RUN apt-get install -y g++
 RUN apt-get install -y python
 RUN apt-get install -y make
 
-ENV NODE_VERSION 4.2.3
+ENV NODE_VERSION 4.4.4
 
 WORKDIR /opt
 RUN curl https://nodejs.org/dist/v$NODE_VERSION/node-v$NODE_VERSION-linux-x64.tar.gz | tar xvz
